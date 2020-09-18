@@ -1,3 +1,4 @@
+
 ## Introduction to Docker and Kubernetes terminology
 
 [**Docker**](https://www.docker.com/){:target="_blank"}: Docker is a software technology, that provides operating-system-level virtualization to easily deploy applications in a sandbox (called containers) to run on the Linux.
